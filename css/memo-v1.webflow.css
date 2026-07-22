@@ -325,6 +325,56 @@ blockquote {
   margin-bottom: -100px;
 }
 
+.section.work-photo3 {
+  z-index: 9;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 90vh;
+  margin-top: -100px;
+  margin-bottom: -100px;
+}
+.section.project01{
+  background-image: url('../images/projects/01_dearfoams_1.jpg');
+}
+.section.project02{
+  background-image: url('../images/projects/02_laelia_1.jpg');
+}
+.section.project03{
+  background-image: url('../images/projects/03_bero_0.jpg');
+}
+.section.project04{
+  background-image: url('../images/projects/');
+}
+.section.project05{
+  background-image: url('../images/projects/');
+}
+.section.project06{
+  background-image: url('../images/projects/');
+}
+.section.project07{
+  background-image: url('../images/projects/');
+}
+.section.project08{
+  background-image: url('../images/projects/');
+}
+.section.project09{
+  background-image: url('../images/projects/');
+}
+
+
+
+.section.project01 {
+  z-index: 9;
+  background-image: url('../images/projects/01_dearfoams_1.jpg');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 90vh;
+  margin-top: -100px;
+  margin-bottom: -100px;
+}
+
 .display-1 {
   opacity: 100;
   line-height: var(--line-height--page-line-height);
